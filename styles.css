@@ -1,0 +1,24 @@
+body{
+    background: green;
+}
+.card{
+    background-color: white;
+    display: inline-block;
+    margin: auto;
+    height: 400px;
+    width: 250px;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+.top-suit{
+    font-size: 75px;
+}
+
+.number{
+    font-size: 100px;
+}
+
+.bottom-suit{
+    font-size: 75px;
+}
